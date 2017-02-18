@@ -19,6 +19,8 @@
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
+    "firebase": "^3.6.9",
+    "firebase-admin": "^4.1.1",
     "method-override": "^2.3.7",
     "mongoose": "^4.7.6",
     "nodemon": "^1.11.0"
